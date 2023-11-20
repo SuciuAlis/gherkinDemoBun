@@ -2,7 +2,7 @@
 @BSPID28001REV0.5.0
 Feature: FeatureBDDNewAlis11_16
 @TSCID2167013
-	Scenario: S2222233
+	Scenario: S22222333344
 		Given 2
 		When 2
 		Then 2
