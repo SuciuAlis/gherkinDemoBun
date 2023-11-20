@@ -1,8 +1,8 @@
 #Auto generated Octane revision tag
-@BSPID28001REV0.4.0
+@BSPID28001REV0.5.0
 Feature: FeatureBDDNewAlis11_16
 @TSCID2167013
-	Scenario: S222
+	Scenario: S22222
 		Given 2
 		When 2
 		Then 2
