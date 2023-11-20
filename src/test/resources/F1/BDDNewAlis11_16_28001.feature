@@ -6,6 +6,11 @@ Feature: FeatureBDDNewAlis11_16
 		Given 2
 		When 2
 		Then 2
+  @TSCID2167013
+	Scenario: S22222334
+		Given 2
+		When 2
+		Then 2
 
 @TSCID2165010
 	Scenario: ScenarioBDDNewAlis11_16
